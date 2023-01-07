@@ -1,0 +1,19 @@
+.meta{
+  color:rgb(255, 119, 0);
+  text-align: right;
+}
+ p{
+  color:azure;
+  text-align: right;
+  background-color: rgb(98, 123, 123);
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.the{
+  
+  background-color: rgb(138, 238, 15);
+   border: 5px  solid red;
+   border-radius: 3px;
+   text-align: right;
+   margin: right 0% ;
+}
